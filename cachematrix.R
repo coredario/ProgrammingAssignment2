@@ -1,5 +1,3 @@
-## Overall description of what your
-
 ## makeCacheMatrix function creates a special matrix which is
 ## a list containing this functions:
 ## 1. set the value of the matrix
